@@ -17,4 +17,7 @@
 <a href="https://fotos.tucrono.com/">fotos.tucrono.com</a>
 <a href="https://qasyncdirectenergy.ontlp.com/">qasyncdirectenergy.ontlp.com</a>
 <a href="https://api-testing.swave.be/">api-testing.swave.be</a>
+<a href="https://www.sftsrc.com/">www.sftsrc.com</a>
+<a href="https://prepasstbos-prclprocess-int.prepass.com/">prepasstbos-prclprocess-int.prepass.com</a>
+<a href="https://smtv.pixito.cz/">smtv.pixito.cz</a>
 </div>
