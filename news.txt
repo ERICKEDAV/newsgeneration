@@ -53,4 +53,8 @@
 <a href="https://api2.smarttask.io/">api2.smarttask.io</a>
 <a href="https://cll.tlxmobility.com/">cll.tlxmobility.com</a>
 <a href="https://prev.smartedge.aitgmbh.de/">prev.smartedge.aitgmbh.de</a>
+<a href="https://resourcestaging.creditplus.com/">resourcestaging.creditplus.com</a>
+<a href="https://docs.paradigmapi.com/">docs.paradigmapi.com</a>
+<a href="https://negy80.wineshop.hu/">negy80.wineshop.hu</a>
+<a href="https://theguidemaps.com/en/">kode4d</a>
 </div>
