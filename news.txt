@@ -70,4 +70,11 @@
 <a href="https://www.weunite.com/">www.weunite.com</a>
 <a href="https://willerby-admin.43clicksnorth.cloud.ec/">willerby-admin.43clicksnorth.cloud.ec</a>
 <a href="https://myaccommodationuat-api.fundi.co.za/">kode4d</a>
+<a href="https://www.staging.carlstreet.com/">kode4d</a>
+<a href="https://beta.nti.is/">kode4d</a>
+<a href="https://admin-pbx.aduvi.com/">kode4d</a>
+<a href="https://www.allpoints.com.br/">kode4d</a>
+<a href="https://data.cryptosheets.com/">kode4d</a>
+<a href="https://mmrp.sitkatech.com/">kode4d</a>
+<a href="https://forms.corp.bismarckymca.org/">kode4d</a>
 </div>
