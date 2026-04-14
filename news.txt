@@ -93,4 +93,9 @@
 <a href="https://static.movi.ai/">static.movi.ai</a>
 <a href="https://subscription-usa-api.spacetalk.co/">subscription-usa-api.spacetalk.co</a>
 <a href="https://beta.scoutsft.com/">beta.scoutsft.com</a>
+<a href="https://sociaalfonds.empuls.be/">sociaalfonds.empuls.be</a>
+<a href="https://mg2.marketingg2.com/">mg2.marketingg2.com</a>
+<a href="https://test-suche.auftrag.at/">test-suche.auftrag.at</a>
+<a href="https://dl.scoutsft.com/">dl.scoutsft.com</a>
+<a href="https://www.trimoo.com/">www.trimoo.com</a>
 </div>
