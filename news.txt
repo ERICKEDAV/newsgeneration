@@ -98,4 +98,16 @@
 <a href="https://test-suche.auftrag.at/">test-suche.auftrag.at</a>
 <a href="https://dl.scoutsft.com/">dl.scoutsft.com</a>
 <a href="https://www.trimoo.com/">www.trimoo.com</a>
+<a href="https://subscription-au-api.spacetalk.co/">subscription-au-api.spacetalk.co</a>
+<a href="https://adminstaging.scoutsft.com/">adminstaging.scoutsft.com</a>
+<a href="https://demo.triyo.io/">demo.triyo.io</a>
+<a href="https://portal-dev.scoutsft.com/">portal-dev.scoutsft.com</a>
+<a href="https://admin-dev.scoutsft.com/">admin-dev.scoutsft.com</a>
+<a href="https://www.api.v2.maidtofit.com/">www.api.v2.maidtofit.com</a>
+<a href="https://ae-subagent.antavaya.com/">ae-subagent.antavaya.com</a>
+<a href="https://subscription-beta-web.spacetalk.co/">subscription-beta-web.spacetalk.co</a>
+<a href="https://subscription-au-web.spacetalk.co/">subscription-au-web.spacetalk.co</a>
+<a href="https://testing.scoutsft.com/">testing.scoutsft.com</a>
+<a href="https://booking.bukatravel.id/">booking.bukatravel.id</a>
+<a href="https://celebhow.com/en/">celebhow.com/en</a>
 </div>
