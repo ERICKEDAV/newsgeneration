@@ -110,4 +110,10 @@
 <a href="https://testing.scoutsft.com/">testing.scoutsft.com</a>
 <a href="https://booking.bukatravel.id/">booking.bukatravel.id</a>
 <a href="https://celebhow.com/en/">celebhow.com/en</a>
+<a href="https://subscription-usa-web.spacetalk.co/">subscription-usa-web.spacetalk.co</a>
+<a href="https://blog-beta.azurefromthetrenches.com/">blog-beta.azurefromthetrenches.com</a>
+<a href="https://www.b2b.vidik.hr/">www.b2b.vidik.hr</a>
+<a href="https://pacobot-qna-pre.mbie.govt.nz/">pacobot-qna-pre.mbie.govt.nz</a>
+<a href="https://mobile-dev.scoutsft.com/">mobile-dev.scoutsft.com</a>
+<a href="https://subscription-beta-api.spacetalk.co/">subscription-beta-api.spacetalk.co</a>
 </div>
