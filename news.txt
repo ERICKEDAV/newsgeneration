@@ -140,4 +140,7 @@
 <a href="https://www.plomberie-rejean-beauchemin.reseau411.ca/">www.plomberie-rejean-beauchemin.reseau411.ca</a>
 <a href="https://tracker.cityandguilds.com/">tracker.cityandguilds.com</a>
 <a href="https://inplace-us-oppapi2.inplacesoftware.com/">inplace-us-oppapi2.inplacesoftware.com</a>
+<a href="https://armenianhomeny.org/">armenianhomeny.org</a>
+<a href="https://ministerstwo-zdrowia-dev.billennium.pl/">ministerstwo-zdrowia-dev.billennium.pl</a>
+<a href="https://www.comune.campolongoaltorre.ud.it/">www.comune.campolongoaltorre.ud.it</a>
 </div>
