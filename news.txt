@@ -159,4 +159,6 @@
 <a href="https://iggm.org/">iggm.org</a>
 <a href="https://unmod.org/">unmod.org</a>
 <a href="https://polyfab.org/">polyfab.org</a>
+<a href="https://vedantawest.org/">vedantawest.org</a>
+<a href="https://nomadentrepreneur.io/">nomadentrepreneur.io</a>
 </div>
