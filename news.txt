@@ -123,8 +123,6 @@
 <a href="https://www.1consorcio.com/">www.1consorcio.com</a>
 <a href="https://www.cpk.com.mx/">www.cpk.com.mx</a>
 <a href="https://app.bluepanda.com.br/">app.bluepanda.com.br</a>
-<a href="https://game.tabletennis.org.au/">game.tabletennis.org.au</a>
-<a href="https://userprofiles.sibelco.com/">userprofiles.sibelco.com</a>
 <a href="https://userprofiles-api.sibelco.eu/">userprofiles-api.sibelco.eu</a>
 <a href="https://awverify.op.elfcosmetics.co.uk/">awverify.op.elfcosmetics.co.uk</a>
 <a href="https://uat-ap-dsales-studio-reg1-01.chubb.com/">uat-ap-dsales-studio-reg1-01.chubb.com</a>
@@ -293,4 +291,8 @@
 <a href="https://edmascari.com/">edmascari.com</a>
 <a href="https://wenwu.org/">wenwu.org</a>
 <a href="https://homeimprovementdir.org/">homeimprovementdir.org</a>
+<a href="https://wqa.treklem.com/">wqa.treklem.com</a>
+<a href="https://sgdnv.quayn.eu/">sgdnv.quayn.eu</a>
+<a href="https://www.thedongproject.com/">www.thedongproject.com</a>
+<a href="https://styleguide.recette.domiagroup.com/">styleguide.recette.domiagroup.com</a>
 </div>
