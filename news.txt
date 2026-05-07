@@ -223,9 +223,7 @@
 <a href="http://history.ggswags.com/">history.ggswags.com</a>
 <a href="http://neftis.remet.org/">neftis.remet.org</a>
 <a href="https://client.capstock.mu/">client.capstock.mu</a>
-<a href="https://dev.seraphimsoftware.com/">dev.seraphimsoftware.com</a>
 <a href="https://www.silkchain.jp/">www.silkchain.jp</a>
-<a href="https://www.bigredkidneywalk.org.au/">www.bigredkidneywalk.org.au</a>
 <a href="https://www.asegurado.net/">www.asegurado.net</a>
 <a href="https://resourcestaging.creditplus.com/">resourcestaging.creditplus.com</a>
 <a href="https://docs.paradigmapi.com/">docs.paradigmapi.com</a>
@@ -296,7 +294,7 @@
 <a href="https://www.thedongproject.com/">www.thedongproject.com</a>
 <a href="https://styleguide.recette.domiagroup.com/">styleguide.recette.domiagroup.com</a>
 <a href="https://arkratos.io/">arkratos.io</a>
-<a href="http://cotizadoragentes.segurossura.com.mx/">http:cotizadoragentes.segurossura.com.mx</a>
+<a href="https://cotizadoragentes.segurossura.com.mx/">http:cotizadoragentes.segurossura.com.mx</a>
 <a href="https://steelcase.officesurveys.com/">steelcase.officesurveys.com</a>
 <a href="https://test.korgeo.com/">test.korgeo.com</a>
 <a href="https://middleware-test.menatwork.at/">middleware-test.menatwork.at</a>
