@@ -299,6 +299,7 @@
 <a href="https://test.korgeo.com/">test.korgeo.com</a>
 <a href="https://middleware-test.menatwork.at/">middleware-test.menatwork.at</a>
 <a href="https://www.protesto.net.br/">www.protesto.net.br</a>
+<a href="https://lavender.gold/">lavender.gold</a>
 <a href="https://mgascca.org/">mgascca.org</a>
 <a href="https://optimizely-test.jdecoffee.net/">optimizely-test.jdecoffee.net</a>
 <a href="https://jads.myjnplus.org/">jads.myjnplus.org</a>
