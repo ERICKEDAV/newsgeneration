@@ -85,7 +85,6 @@
 <a href="https://forms.corp.bismarckymca.org/">forms.corp.bismarckymca.org</a>
 <a href="https://loginstaging.scoutsft.com/">loginstaging.scoutsft.com</a>
 <a href="https://static.movi.ai/">static.movi.ai</a>
-<a href="https://subscription-usa-api.spacetalk.co/">subscription-usa-api.spacetalk.co</a>
 <a href="https://beta.scoutsft.com/">beta.scoutsft.com</a>
 <a href="https://subscription-au-api.spacetalk.co/">subscription-au-api.spacetalk.co</a>
 <a href="https://demo.triyo.io/">demo.triyo.io</a>
