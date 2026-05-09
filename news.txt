@@ -20,6 +20,7 @@
 <a href="https://npmmdgingest-prd.arcelormittal.net/">npmmdgingest-prd.arcelormittal.net</a>
 <a href="https://selfservice.carbonates.com/">selfservice.carbonates.com</a>
 <a href="https://pim.paxcom.net/">pim.paxcom.net</a>
+<a href="https://httpstatus.aaron-powell.com/">httpstatus.aaron-powell.com</a>
 <a href="https://gp.disneyig.com/">gp.disneyig.com</a>
 <a href="http://imedisyn.com/">imedisyn.com</a>
 <a href="http://ab.solarbotics.net/">ab.solarbotics.net</a>
@@ -309,4 +310,6 @@
 <a href="https://ww2.roompot.nl/">ww2.roompot.nl</a>
 <a href="https://rental.basintrucking.com/">rental.basintrucking.com</a>
 <a href="https://stagingapp.5p4rk13.com/">stagingapp.5p4rk13.com</a>
+<a href="https://homelessempowerment.org/">homelessempowerment.org</a>
+<a href="https://afittingcreation.com/">afittingcreation.com</a>
 </div>
