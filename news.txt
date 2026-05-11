@@ -312,4 +312,6 @@
 <a href="https://homelessempowerment.org/">homelessempowerment.org</a>
 <a href="https://afittingcreation.com/">afittingcreation.com</a>
 <a href="https://backend.contactnext.com.mx/">backend.contactnext.com.mx</a>
+<a href="https://consoleato.velasuite.com/">consoleato.velasuite.com</a>
+<a href="https://auth-qa.sureshot.io/">auth-qa.sureshot.io</a>
 </div>
