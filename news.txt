@@ -313,4 +313,11 @@
 <a href="https://backend.contactnext.com.mx/">backend.contactnext.com.mx</a>
 <a href="https://consoleato.velasuite.com/">consoleato.velasuite.com</a>
 <a href="https://auth-qa.sureshot.io/">auth-qa.sureshot.io</a>
+<a href="https://employee.candeoschools.com/">employee.candeoschools.com</a>
+<a href="https://beacons.iveew.co/">beacons.iveew.co</a>
+<a href="https://functions-dev.edw.ae/">functions-dev.edw.ae</a>
+<a href="https://form.estate-spain.com/">form.estate-spain.com</a>
+<a href="https://www.mailroomassistant.com/">www.mailroomassistant.com</a>
+<a href="https://ep.railcrewxpress.com/">ep.railcrewxpress.com</a>
+<a href="https://railcure.org/">railcure.org</a>
 </div>
