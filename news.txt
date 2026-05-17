@@ -318,4 +318,9 @@
 <a href="https://devadmin.parkunload.com/">devadmin.parkunload.com</a>
 <a href="https://uat.carersvictoria.org.au/">uat.carersvictoria.org.au</a>
 <a href="https://tbq.lewispr.com/">tbq.lewispr.com</a>
+<a href="https://widgets.lopesfilho.com.br/">widgets.lopesfilho.com.br</a>
+<a href="https://sso-api.test.advancly.com/">sso-api.test.advancly.com</a>
+<a href="https://sitecoredevcm.cherokeecasino.com/">sitecoredevcm.cherokeecasino.com</a>
+<a href="https://www.dev.conciseretail.com/">www.dev.conciseretail.com</a>
+<a href="https://pop.asec.com.pl/">pop.asec.com.pl</a>
 </div>
