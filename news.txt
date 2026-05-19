@@ -62,6 +62,7 @@
 <a href="https://www.acuradealerdigitalprogram.com/">www.acuradealerdigitalprogram.com</a>
 <a href="https://s-camp.sics.no/">s-camp.sics.no</a>
 <a href="https://phmg.proskriptive.com/">phmg.proskriptive.com</a>
+<a href="https://studio.sabaq.edu.pk/">studio.sabaq.edu.pk</a>
 <a href="https://redisapptester-48923.botics.co/">redisapptester-48923.botics.co</a>
 <a href="https://gttirezonetest.gt-tires.com/">gttirezonetest.gt-tires.com</a>
 <a href="https://lorbecashbackform.jdecoffee.net/">lorbecashbackform.jdecoffee.net</a>
@@ -315,7 +316,6 @@
 <a href="https://reach-qa.sureshot.io/">reach-qa.sureshot.io</a>
 <a href="https://merchandising-archive-frontoffice-pp.sonaemc.com/">merchandising-archive-frontoffice-pp.sonaemc.com</a>
 <a href="https://id.asec.com.pl/">id.asec.com.pl</a>
-<a href="https://devadmin.parkunload.com/">devadmin.parkunload.com</a>
 <a href="https://uat.carersvictoria.org.au/">uat.carersvictoria.org.au</a>
 <a href="https://tbq.lewispr.com/">tbq.lewispr.com</a>
 <a href="https://widgets.lopesfilho.com.br/">widgets.lopesfilho.com.br</a>
@@ -323,4 +323,15 @@
 <a href="https://sitecoredevcm.cherokeecasino.com/">sitecoredevcm.cherokeecasino.com</a>
 <a href="https://www.dev.conciseretail.com/">www.dev.conciseretail.com</a>
 <a href="https://pop.asec.com.pl/">pop.asec.com.pl</a>
+<a href="https://www.bserver.koenig-trans.com/">www.bserver.koenig-trans.com</a>
+<a href="https://staginglive.getsparkle.io/">staginglive.getsparkle.io</a>
+<a href="https://app.pasibus.pl/">app.pasibus.pl</a>
+<a href="https://demo.boschaishield.com/">demo.boschaishield.com</a>
+<a href="https://app.rosterlogix.com/">app.rosterlogix.com</a>
+<a href="https://app-emr-rest-api-001.helloalleva.com/">app-emr-rest-api-001.helloalleva.com</a>
+<a href="https://coppuat.optimo.training/">coppuat.optimo.training</a>
+<a href="https://portaldev.emsworth-corporate.co.uk/">portaldev.emsworth-corporate.co.uk</a>
+<a href="https://staging.fuelsy.com/">staging.fuelsy.com</a>
+<a href="https://hidden-cherry-45273.botics.co/">hidden-cherry-45273.botics.co</a>
+<a href="https://www.uat.admin.gealan-k13.preview.cz/">www.uat.admin.gealan-k13.preview.cz</a>
 </div>
