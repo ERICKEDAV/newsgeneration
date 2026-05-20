@@ -337,4 +337,8 @@
 <a href="https://onlinepay.usrisk.com/">onlinepay.usrisk.com</a>
 <a href="https://qa.everflowutilities.com/">qa.everflowutilities.com</a>
 <a href="https://wellness.naphs.org/">wellness.naphs.org</a>
+<a href="https://www.rightpoint.co.uk.cdn.cloudflare.net/">www.rightpoint.co.uk.cdn.cloudflare.net</a>
+<a href="https://guests.wifi.cgworkplace.com/">guests.wifi.cgworkplace.com</a>
+<a href="https://sqm-api.rizepoint.com/">sqm-api.rizepoint.com</a>
+<a href="https://help.documentguardian.com/">help.documentguardian.com</a>
 </div>
