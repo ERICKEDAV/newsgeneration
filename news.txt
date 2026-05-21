@@ -181,7 +181,6 @@
 <a href="http://soft32.fr/">soft32.fr</a>
 <a href="http://softwaerewolf.com/">softwaerewolf.com</a>
 <a href="http://suitebeemigrate.wooagency.com/">suitebeemigrate.wooagency.com</a>
-<a href="https://bpt-committeesinmeeting.oir.ie/">bpt-committeesinmeeting.oir.ie</a>
 <a href="https://infiniti.convergeinternational.com.au/">infiniti.convergeinternational.com.au</a>
 <a href="https://app.fv1880.de/">app.fv1880.de</a>
 <a href="https://portaldev.agrf.org.au/">portaldev.agrf.org.au</a>
@@ -341,4 +340,11 @@
 <a href="https://guests.wifi.cgworkplace.com/">guests.wifi.cgworkplace.com</a>
 <a href="https://sqm-api.rizepoint.com/">sqm-api.rizepoint.com</a>
 <a href="https://help.documentguardian.com/">help.documentguardian.com</a>
+<a href="https://api.gaboosters.org/">api.gaboosters.org</a>
+<a href="https://long-poetry-34838.botics.co/">long-poetry-34838.botics.co</a>
+<a href="https://qa.gdayrewards.com.au/">qa.gdayrewards.com.au</a>
+<a href="https://preview.fuelsy.com/">preview.fuelsy.com</a>
+<a href="https://dev01.colonycloud.co.uk/">dev01.colonycloud.co.uk</a>
+<a href="https://www.aboutmypc.net/">www.aboutmypc.net</a>
+<a href="https://eta-oaa.almusnet.com/">eta-oaa.almusnet.com</a>
 </div>
