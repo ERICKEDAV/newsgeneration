@@ -80,11 +80,9 @@
 <a href="https://loginstaging.scoutsft.com/">loginstaging.scoutsft.com</a>
 <a href="https://static.movi.ai/">static.movi.ai</a>
 <a href="https://beta.scoutsft.com/">beta.scoutsft.com</a>
-<a href="https://subscription-au-api.spacetalk.co/">subscription-au-api.spacetalk.co</a>
 <a href="https://demo.triyo.io/">demo.triyo.io</a>
 <a href="https://portal-dev.scoutsft.com/">portal-dev.scoutsft.com</a>
 <a href="https://www.api.v2.maidtofit.com/">www.api.v2.maidtofit.com</a>
-<a href="https://subscription-beta-web.spacetalk.co/">subscription-beta-web.spacetalk.co</a>
 <a href="https://ae-subagent.antavaya.com/">ae-subagent.antavaya.com</a>
 <a href="https://blog-beta.azurefromthetrenches.com/">blog-beta.azurefromthetrenches.com</a>
 <a href="https://www.b2b.vidik.hr/">www.b2b.vidik.hr</a>
@@ -347,4 +345,6 @@
 <a href="https://dev01.colonycloud.co.uk/">dev01.colonycloud.co.uk</a>
 <a href="https://www.aboutmypc.net/">www.aboutmypc.net</a>
 <a href="https://eta-oaa.almusnet.com/">eta-oaa.almusnet.com</a>
+<a href="https://mkt.thinky365.com/">mkt.thinky365.com</a>
+<a href="https://www.tyltd.polebuddy.com/">www.tyltd.polebuddy.com</a>
 </div>
