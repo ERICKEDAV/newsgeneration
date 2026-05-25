@@ -46,7 +46,6 @@
 <a href="https://cisprod.midttrafik.dk/">cisprod.midttrafik.dk</a>
 <a href="https://philips-ncommand.ionic.health/">philips-ncommand.ionic.health</a>
 <a href="https://bpt-submissions.oir.ie/">bpt-submissions.oir.ie</a>
-<a href="http://bpt-api-motions.oir.ie/">bpt-api-motions.oir.ie</a>
 <a href="https://basesolution.master.bluedesk.nl/">basesolution.master.bluedesk.nl</a>
 <a href="https://demo-hub.homesphere.com/">demo-hub.homesphere.com</a>
 <a href="https://rpa.suddath.com/">rpa.suddath.com</a>
@@ -86,7 +85,6 @@
 <a href="https://ae-subagent.antavaya.com/">ae-subagent.antavaya.com</a>
 <a href="https://blog-beta.azurefromthetrenches.com/">blog-beta.azurefromthetrenches.com</a>
 <a href="https://www.b2b.vidik.hr/">www.b2b.vidik.hr</a>
-<a href="https://subscription-usa-web.spacetalk.co/">subscription-usa-web.spacetalk.co</a>
 <a href="https://mobile-dev.scoutsft.com/">mobile-dev.scoutsft.com</a>
 <a href="https://orchestrator.sisuadigital.com/">orchestrator.sisuadigital.com</a>
 <a href="https://k155.spama.no/">k155.spama.no</a>
@@ -360,4 +358,13 @@
 <a href="https://cmsstg.creditbox.com/">cmsstg.creditbox.com</a>
 <a href="https://app.tours.iveew.co/">app.tours.iveew.co</a>
 <a href="https://www.coinslosh.com/">www.coinslosh.com</a>
+<a href="https://empresas-qa.fastshop.com.br/">empresas-qa.fastshop.com.br</a>
+<a href="https://www.28maj1948.dk/">www.28maj1948.dk</a>
+<a href="https://www.sure.group/">www.sure.group</a>
+<a href="https://ww2.nakedcake.se/">ww2.nakedcake.se</a>
+<a href="https://staging.norge.co.kr/">staging.norge.co.kr</a>
+<a href="https://www.big-consultancy.com/">www.big-consultancy.com</a>
+<a href="https://rfq-dev.myyara.com/">rfq-dev.myyara.com</a>
+<a href="https://www.strongblockstraining.com/">www.strongblockstraining.com</a>
+<a href="https://il2.systemb2b.com/">il2.systemb2b.com</a>
 </div>
