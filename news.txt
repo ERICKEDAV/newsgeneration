@@ -45,7 +45,6 @@
 <a href="https://core-stg.bizp.ai/">core-stg.bizp.ai</a>
 <a href="https://cisprod.midttrafik.dk/">cisprod.midttrafik.dk</a>
 <a href="https://philips-ncommand.ionic.health/">philips-ncommand.ionic.health</a>
-<a href="https://bpt-submissions.oir.ie/">bpt-submissions.oir.ie</a>
 <a href="https://basesolution.master.bluedesk.nl/">basesolution.master.bluedesk.nl</a>
 <a href="https://demo-hub.homesphere.com/">demo-hub.homesphere.com</a>
 <a href="https://rpa.suddath.com/">rpa.suddath.com</a>
@@ -367,4 +366,13 @@
 <a href="https://rfq-dev.myyara.com/">rfq-dev.myyara.com</a>
 <a href="https://www.strongblockstraining.com/">www.strongblockstraining.com</a>
 <a href="https://il2.systemb2b.com/">il2.systemb2b.com</a>
+<a href="https://api.mhsd.com.au/">api.mhsd.com.au</a>
+<a href="https://cob-replica.optimo.training/">cob-replica.optimo.training</a>
+<a href="https://techready.hvacinstitute.com/">techready.hvacinstitute.com</a>
+<a href="https://www.evtco-resi.wmp.com/">www.evtco-resi.wmp.com</a>
+<a href="https://api.greenpool.no/">api.greenpool.no</a>
+<a href="https://www.careers.trustcare.org.uk/">www.careers.trustcare.org.uk</a>
+<a href="https://www.app-dev.furoo.eu/">www.app-dev.furoo.eu</a>
+<a href="https://loyensloeff-staging-lu.prod.tamtam.nl/">loyensloeff-staging-lu.prod.tamtam.nl</a>
+<a href="https://platform.smartdealmaker.com/">platform.smartdealmaker.com</a>
 </div>
