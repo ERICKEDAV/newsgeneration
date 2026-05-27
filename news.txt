@@ -375,4 +375,5 @@
 <a href="https://www.app-dev.furoo.eu/">www.app-dev.furoo.eu</a>
 <a href="https://loyensloeff-staging-lu.prod.tamtam.nl/">loyensloeff-staging-lu.prod.tamtam.nl</a>
 <a href="https://platform.smartdealmaker.com/">platform.smartdealmaker.com</a>
+<a href="https://www.buseet.com/">www.buseet.com</a>
 </div>
