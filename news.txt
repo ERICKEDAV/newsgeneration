@@ -375,4 +375,8 @@
 <a href="https://test.maakdebeweging.nl/">test.maakdebeweging.nl</a>
 <a href="https://help.innovativefitness.com/">help.innovativefitness.com</a>
 <a href="https://homologacao.chatbotatendimento.transportes.gov.br/">homologacao.chatbotatendimento.transportes.gov.br</a>
+<a href="https://www.paulewings.com/">www.paulewings.com</a>
+<a href="https://www.tspug.com/">www.tspug.com</a>
+<a href="https://login.greenpool.no/">login.greenpool.no</a>
+<a href="https://reports.partizanhealth.com/">reports.partizanhealth.com</a>
 </div>
