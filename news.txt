@@ -379,4 +379,10 @@
 <a href="https://www.tspug.com/">www.tspug.com</a>
 <a href="https://login.greenpool.no/">login.greenpool.no</a>
 <a href="https://reports.partizanhealth.com/">reports.partizanhealth.com</a>
+<a href="https://assets.joinmichael.ca/">assets.joinmichael.ca</a>
+<a href="https://api.jaumei.woktowalk.com/">api.jaumei.woktowalk.com</a>
+<a href="https://www.admin.eproc.dbsa.org/">www.admin.eproc.dbsa.org</a>
+<a href="https://phoneagentassistant.mindsunited.com/">phoneagentassistant.mindsunited.com</a>
+<a href="https://accessapi.soundpass.ai/">accessapi.soundpass.ai</a>
+<a href="https://actioncredit.upaytechnology.com/">actioncredit.upaytechnology.com</a>
 </div>
