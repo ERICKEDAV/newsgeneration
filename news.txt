@@ -408,4 +408,10 @@
 <a href="https://test-external.immo-connect.be/">www.virtual.escroom.cz</a>
 <a href="https://api.juancho.eu/">silkeborg.reservertid.nu</a>
 <a href="https://silkeborg.reservertid.nu/">jtaylor.sidev.co</a>
+<a href="https://equipment.kohlerindustries.com/">equipment.kohlerindustries.com</a>
+<a href="https://www.csttyres.co.za/">www.csttyres.co.za</a>
+<a href="https://test.husqvarna-mobility.com/">test.husqvarna-mobility.com</a>
+<a href="https://www.hostmaster.tripcake.at/">www.hostmaster.tripcake.at</a>
+<a href="https://www.cajunredstars.at/">www.cajunredstars.at</a>
+<a href="https://magis.kaartenhuisbrugge.be/">magis.kaartenhuisbrugge.be</a>
 </div>
