@@ -218,7 +218,7 @@
 <a href="http://www.longwalls.com.au/">www.longwalls.com.au</a>
 <a href="https://empresas-qa.fastshop.com.br/">empresas-qa.fastshop.com.br</a>
 <a href="https://zion.kitchentime.com/">zion.kitchentime.com</a>
-<a href="https://www.plso.info/">www.plso.info</a>
+<a href="https://plsoclient.azurewebsites.net/">plsoclient.azurewebsites.net</a>
 <a href="https://www.app.furoo.eu/">www.app.furoo.eu</a>
 <a href="https://hafengeburtstag.live-icom.com/">hafengeburtstag.live-icom.com</a>
 <a href="https://www.sftsrc.com/">www.sftsrc.com</a>
@@ -418,4 +418,12 @@
 <a href="https://cds.fmgl.com.au/">cds.fmgl.com.au</a>
 <a href="https://via2.vittoriahub.com/">via2.vittoriahub.com</a>
 <a href="https://userprofilesuat.sibelco.eu/">userprofilesuat.sibelco.eu</a>
+<a href="https://dev.gdaygroup.com.au/">dev.gdaygroup.com.au</a>
+<a href="https://beta.promineo-reporting.promineo.no/">beta.promineo-reporting.promineo.no</a>
+<a href="https://www.vekotechnics.be/">www.vekotechnics.be</a>
+<a href="https://www.cvd.io/">www.cvd.io</a>
+<a href="https://www.history-podcasts.com/">www.history-podcasts.com</a>
+<a href="https://api.clickclinician.com/">api.clickclinician.com</a>
+<a href="https://forum.vcelicka.cz/">forum.vcelicka.cz</a>
+<a href="https://userprofilestest.bekalkenloont.nl/">userprofilestest.bekalkenloont.nl</a>
 </div>
