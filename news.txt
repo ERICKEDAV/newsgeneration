@@ -22,6 +22,7 @@
 <a href="https://pim.paxcom.net/">pim.paxcom.net</a>
 <a href="https://httpstatus.aaron-powell.com/">httpstatus.aaron-powell.com</a>
 <a href="https://gp.disneyig.com/">gp.disneyig.com</a>
+<a href="http://gp.disneyig.com/">gp.disneyig.com</a>
 <a href="http://imedisyn.com/">imedisyn.com</a>
 <a href="http://ab.solarbotics.net/">ab.solarbotics.net</a>
 <a href="http://shop.solarbotics.net/">shop.solarbotics.net</a>
@@ -326,6 +327,8 @@
 <a href="https://staging.fuelsy.com/">staging.fuelsy.com</a>
 <a href="https://hidden-cherry-45273.botics.co/">hidden-cherry-45273.botics.co</a>
 <a href="https://www.uat.admin.gealan-k13.preview.cz/">www.uat.admin.gealan-k13.preview.cz</a>
+<a href="https://api.cgworkplace.com/">api.cgworkplace.com</a>
+<a href="https://app.tribe.do/">app.tribe.do</a>
 <a href="https://onlinepay.usrisk.com/">onlinepay.usrisk.com</a>
 <a href="https://qa.everflowutilities.com/">qa.everflowutilities.com</a>
 <a href="https://wellness.naphs.org/">wellness.naphs.org</a>
@@ -426,4 +429,6 @@
 <a href="https://api.clickclinician.com/">api.clickclinician.com</a>
 <a href="https://forum.vcelicka.cz/">forum.vcelicka.cz</a>
 <a href="https://userprofilestest.bekalkenloont.nl/">userprofilestest.bekalkenloont.nl</a>
+<a href="https://betaproxy1.festivalofpolitics.scot/">betaproxy1.festivalofpolitics.scot</a>
+<a href="https://imco.neme.tv/">imco.neme.tv</a>
 </div>
