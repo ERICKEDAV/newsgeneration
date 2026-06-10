@@ -444,4 +444,10 @@
 <a href="https://cms.uat.wtatennis.club/">cms.uat.wtatennis.club</a>
 <a href="https://devel.martsola.com/">devel.martsola.com</a>
 <a href="https://www.dehavens.com.spectrumdns.net/">www.dehavens.com.spectrumdns.net</a>
+<a href="https://staging.innit.no/">staging.innit.no</a>
+<a href="https://jaykul.com/">jaykul.com</a>
+<a href="https://reps.mycase.app/">reps.mycase.app</a>
+<a href="https://kiatsinnext.com/">kiatsinnext.com</a>
+<a href="https://toegang.hamewith.nl/">toegang.hamewith.nl</a>
+<a href="https://edge-gateway.imaschelling.com/">edge-gateway.imaschelling.com</a>
 </div>
