@@ -60,8 +60,6 @@
 <a href="https://api-testing.swave.be/">api-testing.swave.be</a>
 <a href="https://www.acuradealerdigitalprogram.com/">www.acuradealerdigitalprogram.com</a>
 <a href="https://s-camp.sics.no/">s-camp.sics.no</a>
-<a href="https://phmg.proskriptive.com/">phmg.proskriptive.com</a>
-<a href="https://studio.sabaq.edu.pk/">studio.sabaq.edu.pk</a>
 <a href="https://redisapptester-48923.botics.co/">redisapptester-48923.botics.co</a>
 <a href="https://gttirezonetest.gt-tires.com/">gttirezonetest.gt-tires.com</a>
 <a href="https://lorbecashbackform.jdecoffee.net/">lorbecashbackform.jdecoffee.net</a>
@@ -94,7 +92,6 @@
 <a href="https://aia.en.wwpkg.com.hk/">aia.en.wwpkg.com.hk</a>
 <a href="https://blog.thebrandstrengthmonitor.com/">blog.thebrandstrengthmonitor.com</a>
 <a href="https://training.2ndavestores.com/">training.2ndavestores.com</a>
-<a href="https://www.ministryofsoundclub.com.au/">www.ministryofsoundclub.com.au</a>
 <a href="https://ww2.banesco.com.pa/">ww2.banesco.com.pa</a>
 <a href="https://qasyncrhythm.ontlp.com/">qasyncrhythm.ontlp.com</a>
 <a href="https://test-monitoring.orisnv.be/">test-monitoring.orisnv.be</a>
@@ -284,7 +281,6 @@
 <a href="https://ccg-myplaces-cms-dev.chinachemgroup.com/">ccg-myplaces-cms-dev.chinachemgroup.com</a>
 <a href="https://demo.yourjuniper.org/">demo.yourjuniper.org</a>
 <a href="https://www.majorminorstore.com/">www.majorminorstore.com</a>
-<a href="https://ww2.roompot.nl/">ww2.roompot.nl</a>
 <a href="https://rental.basintrucking.com/">rental.basintrucking.com</a>
 <a href="https://stagingapp.5p4rk13.com/">stagingapp.5p4rk13.com</a>
 <a href="https://homelessempowerment.org/">homelessempowerment.org</a>
