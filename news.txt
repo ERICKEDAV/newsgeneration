@@ -356,7 +356,6 @@
 <a href="https://www.buseet.com/">www.buseet.com</a>
 <a href="https://betaclient.securovision.com/">betaclient.securovision.com</a>
 <a href="https://middleware-qa.menatwork.at/">middleware-qa.menatwork.at</a>
-<a href="https://orderonline.cornerbakerycafe.com/">orderonline.cornerbakerycafe.com</a>
 <a href="https://www.worldrxusa.com/">www.worldrxusa.com</a>
 <a href="https://storeportalstaging.danielsjewelers.com/">storeportalstaging.danielsjewelers.com</a>
 <a href="https://app.innate.com/">app.innate.com</a>
@@ -366,7 +365,6 @@
 <a href="https://www.tspug.com/">www.tspug.com</a>
 <a href="https://login.greenpool.no/">login.greenpool.no</a>
 <a href="https://reports.partizanhealth.com/">reports.partizanhealth.com</a>
-<a href="https://assets.joinmichael.ca/">assets.joinmichael.ca</a>
 <a href="https://www.admin.eproc.dbsa.org/">www.admin.eproc.dbsa.org</a>
 <a href="https://phoneagentassistant.mindsunited.com/">phoneagentassistant.mindsunited.com</a>
 <a href="https://accessapi.soundpass.ai/">accessapi.soundpass.ai</a>
@@ -397,7 +395,6 @@
 <a href="https://magis.kaartenhuisbrugge.be/">magis.kaartenhuisbrugge.be</a>
 <a href="https://api.chta.iveew.co/">api.chta.iveew.co</a>
 <a href="https://campaigns.mobilestore.co.za/">campaigns.mobilestore.co.za</a>
-<a href="https://iblog.roadwarriorllc.com/">iblog.roadwarriorllc.com</a>
 <a href="https://userprofilesuat.sibelco.eu/">userprofilesuat.sibelco.eu</a>
 <a href="https://dev.gdaygroup.com.au/">dev.gdaygroup.com.au</a>
 <a href="https://www.vekotechnics.be/">www.vekotechnics.be</a>
@@ -418,13 +415,11 @@
 <a href="https://demo.grandid.com/">demo.grandid.com</a>
 <a href="https://www.atplonline.co/">www.atplonline.co</a>
 <a href="https://www.cutalk.live/">www.cutalk.live</a>
-<a href="https://www.erp.iits.lk/">www.erp.iits.lk</a>
 <a href="https://www.builtelectrical.com.au/">www.builtelectrical.com.au</a>
 <a href="https://www.w.otc.co.uk/">www.w.otc.co.uk</a>
 <a href="https://app.kendo.rocks/">app.kendo.rocks</a>
 <a href="https://cms.uat.wtatennis.club/">cms.uat.wtatennis.club</a>
 <a href="https://devel.martsola.com/">devel.martsola.com</a>
-<a href="https://www.dehavens.com.spectrumdns.net/">www.dehavens.com.spectrumdns.net</a>
 <a href="https://staging.innit.no/">staging.innit.no</a>
 <a href="https://jaykul.com/">jaykul.com</a>
 <a href="https://reps.mycase.app/">reps.mycase.app</a>
