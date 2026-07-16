@@ -342,8 +342,6 @@
 <a href="https://api.mhsd.com.au/">api.mhsd.com.au</a>
 <a href="https://api.greenpool.no/">api.greenpool.no</a>
 <a href="https://platform.smartdealmaker.com/">platform.smartdealmaker.com</a>
-<a href="https://www.buseet.com/">www.buseet.com</a>
-<a href="https://betaclient.securovision.com/">betaclient.securovision.com</a>
 <a href="https://middleware-qa.menatwork.at/">middleware-qa.menatwork.at</a>
 <a href="https://www.worldrxusa.com/">www.worldrxusa.com</a>
 <a href="https://storeportalstaging.danielsjewelers.com/">storeportalstaging.danielsjewelers.com</a>
